@@ -14,4 +14,4 @@ __pycache__/
 *.py[cod]
 
 # Environment files
-.env
+.venv/
